@@ -1,0 +1,6 @@
+[submodule "GIIIIT"]
+	path = GIIIIT
+	url = https://github.com/samir20-23/GIIIIT.git
+[submodule "NOTE_GIT"]
+	path = NOTE_GIT
+	url = https://github.com/samir20-23/NOTE_GIT.git
