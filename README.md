@@ -1,7 +1,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=Keep+calm+and+git+commit!)](https://git.io/typing-svg)
   
   </div>
 <div id="header" align="center">
