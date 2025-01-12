@@ -1,13 +1,15 @@
 
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFvcHU1OGx6MDdiNzU1ZDlwajhld2YxbWdpNW8xMmRoZ2NoZ3BtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.webp" width="480"/>
+       </a>
+  
 <div id="badges"  align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=Keep+calm+and+git+commit!)](https://git.io/typing-svg)
   
   </div>
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFvcHU1OGx6MDdiNzU1ZDlwajhld2YxbWdpNW8xMmRoZ2NoZ3BtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.webp" width="480"/>
-       </a>
 </div>
+
 # Git Guide
 
 ---
