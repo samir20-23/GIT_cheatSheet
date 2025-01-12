@@ -13,7 +13,6 @@
 # Git Guide
 
 ---
-
 ## Clone 
 ```bash
 git clone <repository_url>
@@ -36,17 +35,10 @@ git commit -m "Your descriptive message here"
 ```bash
 git push origin <branch_name>
 ```
-
----
-
 ## Pull
-Fetch and merge changes from a remote repository.
 ```bash
-git pull origin <branch_name>
+git pull origin <branch_name> #Fetch and merge changes from a remote repository.
 ```
-
----
-
 ## Branches
 Manage branches in your repository.
 ```bash
@@ -59,19 +51,12 @@ git branch -a                     # List all branches (local + remote)
 git branch -d <branch_name>       # Delete a local branch
 git push origin --delete <branch_name>  # Delete a remote branch
 ```
-
----
-
 ## Remote
-Work with remote repositories.
 ```bash
 git remote add origin <url>           # Add a new remote repository
 git remote -v                         # List remote repositories
 git remote set-url origin <new_url>   # Change the URL of a remote repository
 ```
-
----
-
 ## Submodules
 Work with submodules in your repository.
 ```bash
@@ -82,9 +67,6 @@ git rm --cached <path>                # Remove a submodule
 git submodule deinit <path>           # Deinitialize a submodule
 rm -rf <path>                         # Delete submodule files
 ```
-
----
-
 ## History
 View commit history.
 ```bash
@@ -92,18 +74,12 @@ git log                               # Show commit history
 git log --oneline                     # Show condensed commit history
 git log --graph --oneline             # Show a visual graph of commits
 ```
-
----
-
 ## Revert
 Revert changes in your working directory or repository.
 ```bash
 git checkout <file_name>              # Discard changes in a specific file
 git reset --hard                      # Discard all changes in the working directory and index
 ```
-
----
-
 ## Stash
 Temporarily store changes that are not ready to commit.
 ```bash
@@ -112,17 +88,11 @@ git stash list                        # List stashed changes
 git stash apply                       # Apply the latest stash
 git stash drop                        # Delete the latest stash
 ```
-
----
-
 ## Delete Local
 Delete a local file or directory (non-Git command).
 ```bash
 rm -rf <dir>                          # Remove a directory and its contents
 ```
-
----
-
 ## Additional Tips
 ### Show Changes
 View differences between file versions.
@@ -130,19 +100,16 @@ View differences between file versions.
 git diff                              # Show unstaged changes
 git diff --staged                     # Show staged changes
 ```
-
 ### Undo Last Commit
 Undo the last commit without deleting changes.
 ```bash
 git reset --soft HEAD~1
 ```
-
 ### Amend Last Commit
 Modify the last commit message or add changes.
 ```bash
 git commit --amend
 ```
-
 ### Tagging
 Create and manage tags.
 ```bash
@@ -151,4 +118,3 @@ git tag                               # List tags
 git push origin <tag_name>            # Push a specific tag
 git push origin --tags                # Push all tags
 ```
-
