@@ -9,7 +9,9 @@
   
   </div>
 </div>
+<div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=GIT+GUIDE)](https://git.io/typing-svg)
+</div>
 # Git Guide
 
 ---
