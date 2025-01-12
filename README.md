@@ -10,8 +10,8 @@
   </div>
 </div>
 <div id="badges"  align="start">
-  
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7333&lines=GIT+GUIDE)](https://git.io/typing-svg)
+
+# [![Typing SVG]([https://readme-typing-svg.herokuapp.com/?color=ff7333&lines=GIT+GUIDE](https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=17&pause=1002&color=F78900&background=FF960003&random=true&width=391&height=29&lines=GIT+GUIDE;git+clone+git+add+git+commit+git+push+))](https://git.io/typing-svg)
 </div>
  
 ---
