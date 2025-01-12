@@ -9,7 +9,7 @@
   
   </div>
 </div>
-<div id="badges"  align="center">
+<div id="badges"  align="start">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=GIT+GUIDE)](https://git.io/typing-svg)
   
