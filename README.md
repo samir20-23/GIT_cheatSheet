@@ -14,41 +14,25 @@
 
 ---
 
-## Clone
-Clone a repository to your local machine.
+## Clone 
 ```bash
 git clone <repository_url>
 ```
-
----
-
 ## Add
-Stage changes to the index (staging area).
 ```bash
 git add <file_name>    # Stage a specific file
 git add .              # Stage all changes in the current directory
 ```
-
----
-
 ## Status
 Check the status of your working directory and staging area.
 ```bash
 git status
 ```
-
----
-
 ## Commit
-Commit changes to the repository with a message.
 ```bash
 git commit -m "Your descriptive message here"
 ```
-
----
-
 ## Push
-Upload your changes to a remote repository.
 ```bash
 git push origin <branch_name>
 ```
