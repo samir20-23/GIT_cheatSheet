@@ -132,7 +132,7 @@ git push origin --tags                # Push all tags
 </div>
 <div id="badges"  align="start">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=2eff00&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS+METHOD+for+Large+Files+mp4++pdf+zip)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=2eff00&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS+METHOD+for+Large+Files+mp4+pdf+zip)](https://git.io/typing-svg)
 </div>
 ### GIT LFS  METHOD  for  Large Files (.mp4 , .pdf, .zip)
 
