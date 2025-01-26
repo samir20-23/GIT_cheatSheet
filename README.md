@@ -120,3 +120,49 @@ git tag                               # List tags
 git push origin <tag_name>            # Push a specific tag
 git push origin --tags                # Push all tags
 ```
+
+ 
+<div id="badges"  align="start">
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=ff0000&background=FF960003&random=true&width=391&height=29&lines=__________+___________+_______+________)](https://git.io/typing-svg)
+</div>
+<div id="badges"  align="start">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=4500ff&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS)](https://git.io/typing-svg)
+</div>
+<div id="badges"  align="start">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=2eff00&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS+METHOD+for+Large+Files+mp4+zip)](https://git.io/typing-svg)
+</div>
+### GIT LFS  METHOD  for  Large Files (.mp4, .zip)
+
+```
+Follow these steps to track large `.mp4` and `.zip` files with Git LFS.
+
+```
+
+---
+
+**Bash script to run:**
+
+```bash
+# Initialize Git LFS in the repository
+git lfs install
+
+# Track .mp4 and .zip files with Git LFS
+git lfs track "*.mp4"
+git lfs track "*.zip"
+
+# Add .gitattributes to the staging area
+git add .gitattributes
+
+# Add all files to the staging area
+git add .
+
+# Commit the changes
+git commit -m "Track .mp4 and .zip files with Git LFS"
+
+# Push the changes to the repository
+git push origin branch_name
+```
+
