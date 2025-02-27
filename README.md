@@ -167,3 +167,66 @@ git commit -m "Track .mp4 and .pdf and .zip files with Git LFS"
 git push origin branch_name
 ```
 
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=6D26BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=0D16BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=9D09BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
+
+
+### **Git Bash**, here’s a quick guide with the most useful commands for navigation, file editing, and Git.  
+---
+
+## **🔥 Basic Navigation Commands**  
+| Action | Command |
+|--------|---------|
+| **Check current folder** | `pwd` |
+| **List files** | `ls` |
+| **Go into a folder** | `cd foldername` |
+| **Go back (up one level)** | `cd ..` |
+| **Go to home folder** | `cd ~` |
+| **Clear screen** | `clear` |
+
+---
+
+## **📂 File Management**  
+| Action | Command |
+|--------|---------|
+| **Create a file** | `touch filename.php` |
+| **Open & edit file** | `nano filename.php` |
+| **Copy a file** | `cp oldfile.php newfile.php` |
+| **Move/Rename file** | `mv oldname.php newname.php` |
+| **Delete a file** | `rm filename.php` |
+| **Create a folder** | `mkdir newfolder` |
+| **Delete a folder** | `rm -r foldername` |
+
+---
+
+## **📋 Copy & Paste in Git Bash**  
+| Action | Shortcut |
+|--------|----------|
+| **Copy from terminal** | `CTRL + SHIFT + C` |
+| **Paste into terminal** | `CTRL + SHIFT + V` |
+
+---
+
+## **🔄 Switch Between Files & Folders**  
+| Action | Command |
+|--------|---------|
+| **Go into a folder** | `cd foldername` |
+| **List files** | `ls` |
+| **Open a file in Nano** | `nano filename.php` |
+| **Switch between opened files in Nano** | `CTRL + R`, then select file |
+
+---
+
+## **🚀 Git Commands**  
+| Action | Command |
+|--------|---------|
+| **Clone a repo** | `git clone https://github.com/user/repo.git` |
+| **Check repo status** | `git status` |
+| **Add all changes** | `git add .` |
+| **Commit changes** | `git commit -m "your message"` |
+| **Push changes** | `git push origin main` |
+| **Pull latest updates** | `git pull origin main` |
+ 
