@@ -230,3 +230,74 @@ git push origin branch_name
 | **Push changes** | `git push origin main` |
 | **Pull latest updates** | `git pull origin main` |
  
+
+------------------------ 
+```markdown
+# Fix SSH Permission Denied Error When Pushing to GitHub
+
+If you get the error:
+
+```
+
+[git@github.com](mailto:git@github.com): Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+````
+
+follow these steps to fix it:
+
+---
+
+## Steps to Fix SSH Permission Denied Error
+
+1. **Generate a new SSH key (if you don't have one):**
+
+```bash
+ssh-keygen -t ed25519 -C "your-email@example.com"
+````
+
+Press Enter to accept defaults and optionally add a passphrase.
+
+2. **Start the ssh-agent and add your key:**
+
+On Windows PowerShell:
+
+```powershell
+Set-Service ssh-agent -StartupType Automatic
+Start-Service ssh-agent
+ssh-add $env:USERPROFILE\.ssh\id_ed25519
+```
+
+3. **Copy your public key to clipboard:**
+
+```powershell
+Get-Content $env:USERPROFILE\.ssh\id_ed25519.pub | clip
+```
+
+4. **Add the public SSH key to your GitHub account:**
+
+* Go to: [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new)
+* Paste the key from clipboard into the **Key** field.
+* Give it a title (e.g., "My PC") and save.
+
+5. **Test the SSH connection:**
+
+```bash
+ssh -T git@github.com
+```
+
+You should see:
+
+```
+Hi username! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+6. **Now you can push your code using SSH:**
+
+```bash
+git remote set-url origin git@github.com:yourusername/yourrepo.git
+git push origin main --force
+```
+
+---  
+```
