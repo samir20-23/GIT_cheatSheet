@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFvcHU1OGx6MDdiNzU1ZDlwajhld2YxbWdpNW8xMmRoZ2NoZ3BtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.webp" width="480"/>
        </a>
@@ -6,12 +5,13 @@
 <div id="badges"  align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=Keep+calm+and+git+commit!)](https://git.io/typing-svg)
-  
+
   </div>
 </div>
 <div id="badges"  align="start">
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=F78900&background=FF960003&random=true&width=391&height=29&lines=GIT+GUIDE;git+clone+git+add+git+commit+git+push+)](https://git.io/typing-svg)
+
 </div>
  
 ---
@@ -121,18 +121,20 @@ git push origin <tag_name>            # Push a specific tag
 git push origin --tags                # Push all tags
 ```
 
- 
 <div id="badges"  align="start">
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=ff0000&background=FF960003&random=true&width=391&height=29&lines=__________+___________+_______+________)](https://git.io/typing-svg)
+
 </div>
 <div id="badges"  align="start">
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=4500ff&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS)](https://git.io/typing-svg)
+
 </div>
 <div id="badges"  align="start">
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=2eff00&background=FF960003&random=true&width=391&height=29&lines=GIT+LFS+METHOD+for+Large+Files+mp4+pdf+zip)](https://git.io/typing-svg)
+
 </div>
 ### GIT LFS  METHOD  for  Large Files (.mp4 , .pdf, .zip)
 
@@ -167,71 +169,79 @@ git commit -m "Track .mp4 and .pdf and .zip files with Git LFS"
 git push origin branch_name
 ```
 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=6D26BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=0D16BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=9D09BFFF&center=true&vCenter=true&width=482&lines=Git+Bash" alt="Samir Aoulad Amar" />
 
-
-### **Git Bash**, here’s a quick guide with the most useful commands for navigation, file editing, and Git.  
----
-
-## **🔥 Basic Navigation Commands**  
-| Action | Command |
-|--------|---------|
-| **Check current folder** | `pwd` |
-| **List files** | `ls` |
-| **Go into a folder** | `cd foldername` |
-| **Go back (up one level)** | `cd ..` |
-| **Go to home folder** | `cd ~` |
-| **Clear screen** | `clear` |
+### **Git Bash**, here’s a quick guide with the most useful commands for navigation, file editing, and Git.
 
 ---
 
-## **📂 File Management**  
-| Action | Command |
-|--------|---------|
-| **Create a file** | `touch filename.php` |
-| **Open & edit file** | `nano filename.php` |
-| **Copy a file** | `cp oldfile.php newfile.php` |
+## **🔥 Basic Navigation Commands**
+
+| Action                     | Command         |
+| -------------------------- | --------------- |
+| **Check current folder**   | `pwd`           |
+| **List files**             | `ls`            |
+| **Go into a folder**       | `cd foldername` |
+| **Go back (up one level)** | `cd ..`         |
+| **Go to home folder**      | `cd ~`          |
+| **Clear screen**           | `clear`         |
+
+---
+
+## **📂 File Management**
+
+| Action               | Command                      |
+| -------------------- | ---------------------------- |
+| **Create a file**    | `touch filename.php`         |
+| **Open & edit file** | `nano filename.php`          |
+| **Copy a file**      | `cp oldfile.php newfile.php` |
 | **Move/Rename file** | `mv oldname.php newname.php` |
-| **Delete a file** | `rm filename.php` |
-| **Create a folder** | `mkdir newfolder` |
-| **Delete a folder** | `rm -r foldername` |
+| **Delete a file**    | `rm filename.php`            |
+| **Create a folder**  | `mkdir newfolder`            |
+| **Delete a folder**  | `rm -r foldername`           |
 
 ---
 
-## **📋 Copy & Paste in Git Bash**  
-| Action | Shortcut |
-|--------|----------|
-| **Copy from terminal** | `CTRL + SHIFT + C` |
+## **📋 Copy & Paste in Git Bash**
+
+| Action                  | Shortcut           |
+| ----------------------- | ------------------ |
+| **Copy from terminal**  | `CTRL + SHIFT + C` |
 | **Paste into terminal** | `CTRL + SHIFT + V` |
 
 ---
 
-## **🔄 Switch Between Files & Folders**  
-| Action | Command |
-|--------|---------|
-| **Go into a folder** | `cd foldername` |
-| **List files** | `ls` |
-| **Open a file in Nano** | `nano filename.php` |
+## **🔄 Switch Between Files & Folders**
+
+| Action                                  | Command                      |
+| --------------------------------------- | ---------------------------- |
+| **Go into a folder**                    | `cd foldername`              |
+| **List files**                          | `ls`                         |
+| **Open a file in Nano**                 | `nano filename.php`          |
 | **Switch between opened files in Nano** | `CTRL + R`, then select file |
 
 ---
 
-## **🚀 Git Commands**  
-| Action | Command |
-|--------|---------|
-| **Clone a repo** | `git clone https://github.com/user/repo.git` |
-| **Check repo status** | `git status` |
-| **Add all changes** | `git add .` |
-| **Commit changes** | `git commit -m "your message"` |
-| **Push changes** | `git push origin main` |
-| **Pull latest updates** | `git pull origin main` |
- 
+## **🚀 Git Commands**
 
------------------------- 
+| Action                  | Command                                      |
+| ----------------------- | -------------------------------------------- |
+| **Clone a repo**        | `git clone https://github.com/user/repo.git` |
+| **Check repo status**   | `git status`                                 |
+| **Add all changes**     | `git add .`                                  |
+| **Commit changes**      | `git commit -m "your message"`               |
+| **Push changes**        | `git push origin main`                       |
+| **Pull latest updates** | `git pull origin main`                       |
+
+---
+
+<div id="badges"  align="start">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1002&color=4500ff&background=FF960003&random=true&width=391&height=29&lines=ABOUT+PROBLEM+SSH)](https://git.io/typing-svg)
+
+</div>
 ```markdown
 # Fix SSH Permission Denied Error When Pushing to GitHub
 
@@ -242,7 +252,7 @@ If you get the error:
 [git@github.com](mailto:git@github.com): Permission denied (publickey).
 fatal: Could not read from remote repository.
 
-````
+```
 
 follow these steps to fix it:
 
@@ -254,7 +264,7 @@ follow these steps to fix it:
 
 ```bash
 ssh-keygen -t ed25519 -C "your-email@example.com"
-````
+```
 
 Press Enter to accept defaults and optionally add a passphrase.
 
@@ -276,9 +286,9 @@ Get-Content $env:USERPROFILE\.ssh\id_ed25519.pub | clip
 
 4. **Add the public SSH key to your GitHub account:**
 
-* Go to: [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new)
-* Paste the key from clipboard into the **Key** field.
-* Give it a title (e.g., "My PC") and save.
+- Go to: [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new)
+- Paste the key from clipboard into the **Key** field.
+- Give it a title (e.g., "My PC") and save.
 
 5. **Test the SSH connection:**
 
@@ -299,5 +309,5 @@ git remote set-url origin git@github.com:yourusername/yourrepo.git
 git push origin main --force
 ```
 
----  
-```
+---
+ 
